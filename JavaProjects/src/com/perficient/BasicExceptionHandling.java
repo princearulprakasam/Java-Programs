@@ -11,7 +11,7 @@ class Ex
 		{
 			System.out.println(e);
 		}
-		System.out.println("Exception Handled 1");
+		System.out.println("Exception Handled 1");   
 	}
 	void displ()
 	{

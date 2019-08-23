@@ -7,7 +7,7 @@ interface SavingsAccount {
 	  public void currentaccount(); // interface method
 	}
 
-		class Accounts implements SavingsAccount, CurrentAccount {
+	  class Accounts implements SavingsAccount, CurrentAccount {
 	  public void savingsaccount() {
 	    System.out.println("Savings Account Interest rate is 7%");
 	  }
