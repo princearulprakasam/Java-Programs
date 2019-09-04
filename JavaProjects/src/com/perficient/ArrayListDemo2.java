@@ -27,5 +27,4 @@ public class ArrayListDemo2 {
 		else
 			System.out.println("al1 contains elements");			
 	}
-
 }
